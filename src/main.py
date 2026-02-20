@@ -103,7 +103,7 @@ print(f"-> 7 Farklı veri seti başarıyla hazırlandı.")
 
 
 ############################################################################
-# 2. FEATURE ENGINEERING PIPELINE (İLK KODUNDAKİ TAM YAPI)
+# 2. FEATURE ENGINEERING PIPELINE 
 ############################################################################
 
 def feature_engineering_pipeline(dataframe):
@@ -216,7 +216,7 @@ plt.tight_layout()
 plt.show()
 
 # -----------------------------------------------------------
-# EK: FEATURE IMPORTANCE VE SHAP ANALİZİ (DÜZELTİLMİŞ)
+# EK: FEATURE IMPORTANCE VE SHAP ANALİZİ 
 # -----------------------------------------------------------
 import shap
 
